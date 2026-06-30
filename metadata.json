@@ -1,0 +1,6 @@
+{
+  "name": "AI Travel Planner",
+  "description": "An AI-powered travel planner that creates sequential linear itineraries, packing lists, and recommendations for food and hotels based on destination, days, and budget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
